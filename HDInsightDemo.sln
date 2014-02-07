@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDInsightDemo", "HDInsightDemo\HDInsightDemo.csproj", "{D99CCDC8-D7C3-49E6-B2BC-577C82BF8031}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{7DA7F72E-0CCC-4585-BF7D-AE84C693B732}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99CCDC8-D7C3-49E6-B2BC-577C82BF8031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99CCDC8-D7C3-49E6-B2BC-577C82BF8031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99CCDC8-D7C3-49E6-B2BC-577C82BF8031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99CCDC8-D7C3-49E6-B2BC-577C82BF8031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

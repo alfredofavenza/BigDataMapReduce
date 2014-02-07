@@ -1,0 +1,187 @@
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\916kb.log
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\MRRunner.exe
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.exe.config
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.exe
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.pdb
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.Edm.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.OData.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Hadoop.WebClient.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Spatial.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.Edm.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.OData.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Spatial.xml
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\de\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\es\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\fr\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\it\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ja\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ko\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\ru\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.csprojResolveAssemblyReference.cache
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.exe
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.pdb
+D:\Documents\Azure\Day 2\6. Big Data analytics using Hadoop and SQL and no-SQL\1. HDInsight MapReduce\HDInsightDemo\bin\Debug\916kb_large.log
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.exe.config
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.exe
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.pdb
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\916kb.log
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\916kb_large.log
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\MRLib\MRRunner.exe
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.exe
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.pdb
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.Edm.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.OData.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Hadoop.WebClient.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.Formatting.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Spatial.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.Edm.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.OData.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.Formatting.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\System.Spatial.xml
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\de\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\es\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\fr\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\it\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ja\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ko\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\ru\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsight MapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.csprojResolveAssemblyReference.cache
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\916kb.log
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\MRLib\MRRunner.exe
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.dll.config
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\HDInsightDemo.pdb
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.Edm.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.OData.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.Hadoop.WebClient.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Net.Http.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Net.Http.Formatting.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Spatial.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.Edm.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.Data.OData.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Net.Http.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Net.Http.Formatting.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\System.Spatial.xml
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\de\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\es\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\fr\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\it\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ja\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ko\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\ru\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.dll
+D:\Progetti\BigData\HDInsightMapReduce\HDInsightDemo\obj\Debug\HDInsightDemo.pdb
